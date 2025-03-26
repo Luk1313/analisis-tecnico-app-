@@ -1,5 +1,5 @@
 streamlit
 pandas
 plotly
-pandas_ta
 openpyxl
+pandas_ta==0.3.14b  # versión estable compatible
